@@ -1,5 +1,4 @@
-# Phaetus-Dragonfly-BMO-Sock-Mold
-This is a mold for the Phaetus Dragonfly BMO hotend.
+# Phaetus Dragonfly BMO Sock Mold
 
 <p align="center">
   <b>This is a mold for the Phaetus Dragonfly BMO hotend.</b>
