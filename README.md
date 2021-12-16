@@ -11,3 +11,7 @@ M3x16 bolt x1
 M3x20 bolt x4
 
 M3 hex nut x5
+
+# License
+
+CC BY-SA 4.0
